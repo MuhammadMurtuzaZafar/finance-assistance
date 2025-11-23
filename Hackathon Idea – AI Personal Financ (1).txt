@@ -1,0 +1,68 @@
+Hackathon Idea – AI Personal Finance Assistant for Micro-Businesses
+
+**AI-powered Personal Finance Assistant** for **micro-businesses** (like small shops, freelancers, and teams with 1–10 people). These small businesses usually don’t have accountants or fancy tools, so handling money becomes stressful. Our AI assistant helps them manage finances easily, without needing to understand complex accounting.
+
+---
+
+What this AI can do:
+
+1. **Automatically Track & Categorize Expenses**
+   - Reads receipts or bank statements using AI.
+   - Automatically puts expenses into categories (utilities, salaries, supplies, etc.).
+   - Can warn owners if something looks unusual or too expensive.
+
+2. **Cash Flow Predictions + Alerts**
+   - Tells owners when money might get tight in the future.
+   - Sends reminders for overdue payments or low balance.
+   - Helps them avoid sudden financial problems.
+
+3. **Create Invoices & Track Payments**
+   - Automatically generates invoices after a sale.
+   - Tracks who has paid and who hasn’t.
+   - Sends friendly reminders to clients who forgot to pay.
+
+4. **Help With Taxes**
+   - Creates simple, tax-ready reports (Profit & Loss, Balance Sheet).
+   - Highlights possible tax deductions.
+   - Reduces stress during tax season.
+
+5. **Investment or Saving Advice**
+   - Looks at the business’s financial health.
+   - Suggests safe and smart ways to use extra money (reinvesting, saving, etc.).
+   - Uses AI predictions to help owners make better decisions.
+
+---
+
+Why this idea is unique (and could help us win):
+
+- We are targeting **micro-businesses**, a group that is usually ignored by big finance tools.
+- It’s an **all-in-one assistant**: expenses, cash flow, invoices, taxes, advice — all together.
+- It’s **proactive**, not reactive. It predicts problems before they happen.
+- It acts like a **24/7 affordable financial advisor** for small business owners.
+
+---
+
+How IBM watsonx Orchestrate fits in:
+
+- It will connect all the tools together (bank APIs, invoice apps, accounting platforms).
+- We’ll use its AI skills like OCR and NLP to read documents and understand expenses.
+- We can use its automation features to create workflows for invoices, reminders, alerts, etc.
+- Predictive analytics from Orchestrate will help with cash flow forecasting and advice.
+
+---
+
+Real-world impact:
+
+- Makes financial management easy for small business owners.
+- Saves lots of time and reduces stress.
+- Helps prevent financial issues before they become a problem.
+- Gives small businesses the kind of financial insights usually only big companies have.
+
+---
+
+What we need from the team:
+
+- **Tech**: Build the workflow connections and automations.
+- **AI/Data**: Help with cash flow predictions and analytics.
+- **Design/UX**: Make the interface super simple and friendly.
+- **Business**: Map out real user pain points and test the idea.
